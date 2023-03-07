@@ -1,0 +1,12 @@
+.font-10em{
+    font-size: 10em;
+    color: darkcyan;
+}
+p {
+    font-size: 5em;
+    color: brown;
+}
+p.font-8em {
+    font-size: 8em;
+    color: darkcyan;
+}
