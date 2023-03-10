@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+.box-direction {
+    display: flex;
+    flex-direction: row;
+}
+.box-style {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.4em;
+    text-align: center;
+    font-family:Tahoma, sans-serif;
+}
+.box-darkcyan {
+    background-color: darkcyan;
+}
+.box-goldenrod {
+    background-color: goldenrod;
+}
+.box-hotpink {
+    background-color: hotpink;
+}
+.box-direction {
+    display: flex;
+    flex-direction: row;
+}
+.box-64-64-64 {
+    background-color: rgb(64,64,64, .5);
+}
+.box-241-196-15 {
+    background-color: rgb(241,196,15);
+}
+.box-93-173-226 {
+    background-color: rgb(93,173,226);
+}
+.box-direction {
+    display: flex;
+    flex-direction: row;
+}
+.box-14FAC3 {
+    background-color: #14FAC3;
+}
+.box-34495E {
+    background-color: #34495E;
+}
+.box-CB4335 {
+    background-color: #CB4335;
+}
