@@ -1,0 +1,63 @@
+.table-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid white;
+    padding: 15px 25px;
+    text-align: center;
+}
+.th-blu {
+    border-top-left-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+.th-1 {
+    background-color: blue;
+    color: white;
+    border-bottom-left-radius: 20px;
+}
+.th-2 {
+    background-color: blue;
+    color: white;
+}
+.th-green {
+    background-color: greenyellow;
+    color: white;
+}
+.th-cian {
+    background-color: cyan;
+    color: white;
+}
+.th-silver {
+    background-color: silver;
+    color: white;
+}
+.th-gold {
+    background-color: gold;
+    color: white;
+}
+.th-platino {
+    background-color: mediumslateblue;
+    color: white;
+    border-top-right-radius: 20px;
+}
+.x-style {
+    color: rgb(228,22,22);
+}
+.th-3 {
+    background-color: rgb(189,187,187);
+}
+.th-4 {
+    border-bottom-right-radius: 20px;
+    background-color: rgb(189,187,187);
+}
+.th-5 {
+    background-color: silver;
+    color: white;
+}
