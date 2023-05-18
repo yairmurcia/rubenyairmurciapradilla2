@@ -7,14 +7,21 @@
     <title>mi portafolio</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="icons/all.css">
+    <link rel="stylesheet" href="img/goku.jpg">
 </head>
 <body>
-    <i class="fa-solid fa-house"></i>
-    <i class="fa-solid fa-star"></i>
-    <i class="fa-solid fa-star"></i>
-    <i class="fa-solid fa-star"></i>
-    <i class="fa-solid fa-star"></i>
-    <i class="fa-regular fa-star fa-beat"></i>
+    <img class="fondo" src="img/goku.jpg" alt="goku">
+    <div id="contenedor_carga">
+        <div id="carga"></div>
+    </div>
+    <script>
+        window.onload =function(){
+            var contenedor=document.getElementById('contenedor_carga');
+
+            contenedor.style.visibility='hidden';
+            contenedor.style.opacity='0';
+        }  
+    </script>
     <h1>Bienvenido a mi portafolio!</h1>
     <h2> Ruben Yair Murcia Pradilla</h2>
     <h3>el jugo de naranja es mi favorito</h3>
