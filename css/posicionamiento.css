@@ -1,0 +1,39 @@
+.box-direction {
+    display: flex;
+    flex-direction: row;
+}
+.box-style {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.3em;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: 700;
+}
+.boxdarkcyan{
+    background-color: darkcyan;
+    position: static;
+}
+.boxred {
+    position: fixed;
+    top: 100px;
+    left: 1590;
+    background-color: red;
+}
+.boxpink {
+    position: relative;
+    top: 2000px;
+    right: 0;
+    background-color: pink;
+}
+.boxbrown {
+    position: absolute;
+    top: 1000px;
+    right: 0;
+    background-color: brown;
+}
