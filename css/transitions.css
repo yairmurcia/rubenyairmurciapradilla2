@@ -4,9 +4,8 @@
     background-color: red;
     transition: width 2s, height 2s, transform 2s;
 }
-
-#transitions.expanded:hover {
+#transitions:hover {
     width: 600px;
     height: 600px;
-    transform: translate(300px, 300px);
+    background-color:darkblue ;
 }
