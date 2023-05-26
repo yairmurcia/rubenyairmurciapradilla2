@@ -1,5 +1,5 @@
-const container = document.getElementById("container");
+const transitions = document.getElementById("transitions");
 
 setTimeout(() => {
-    container.classList.add("expanded");
+    transitions.classList.add("expanded");
 }, 1000);
