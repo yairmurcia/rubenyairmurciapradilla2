@@ -1,35 +1,21 @@
-*,*:after, *:before {
-    margin: 0;
-    padding: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing:border-box;
-    box-sizing: border-box;
-}
-.fondo{
-    position: fixed;
-    z-index: -1;
-    width: 100%;
-}
-.contenedor {
-    width: 100vw;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.cuadro {
-    width: 800px;
-    height: 800px;
-    background-color: rgb(85, 39, 192);
-    border-radius: 80px;
-}
-.img-logo {
-    width: 100px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    margin: 15px;
-    padding: 10px;
-}
+{
+    "short_name": "React App",
+    "name": "Create React App Sample",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "logo192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "logo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+  }
