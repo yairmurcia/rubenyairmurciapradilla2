@@ -11,7 +11,7 @@ html{
 
 /* SECCION INICIO */
 .inicio{
-    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)),
+    background: linear-gradient(rgba(0, 89, 255, 0.801), rgba(0,0,0,.3)),
     url("img/fondo.jpg");
     background-size: cover;
     background-position: center center;
@@ -30,7 +30,7 @@ html{
 .inicio .contenido-seccion header nav{
     position: fixed;
     margin-left: 60px;
-    background-color: #940253;
+    background-color: #029494;
     padding: 15px;
     border-radius: 10px;
     text-align: left;
