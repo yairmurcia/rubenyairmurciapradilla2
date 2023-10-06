@@ -106,6 +106,10 @@ html{
 .inicio .contenido-seccion .foto{
     position: relative;
 }
+.yair {
+    width: 200px;
+    height: 200px;
+}
 .inicio .contenido-seccion .foto img{
     max-width: 200px;
     border-radius: 50%;
