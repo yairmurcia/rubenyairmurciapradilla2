@@ -269,6 +269,7 @@ html{
   overflow: hidden;
   border: 1px solid #8d8d8d ;
   border-radius: 10px;
+  /* object-fit: cover; */
 }
 .trabajos .galeria .item .info{
   position: absolute;

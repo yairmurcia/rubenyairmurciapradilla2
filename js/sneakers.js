@@ -20,6 +20,7 @@ let thumb2=document.getElementById("thumb2");
 let thumb3=document.getElementById("thumb3");
 let thumb4=document.getElementById("thumb4");
 let botonCerrar =document.getElementById("botonCerrar")
+let boxPlus = documenT.getElementById()
 
 botonCerrar.addEventListener("click", function() {
     boxImgFixed.classList.add("box-img-fixed-hidden");
@@ -118,4 +119,11 @@ thumb3.addEventListener("click", function () {
     mainImgFixed3.classList.add("img-hidden");
     mainImgFixed4.classList.remove("img-hidden");
   });
+<<<<<<< HEAD
 >>>>>>> devyair
+=======
+
+  boxMinus.addEventListener("clilck", function () {
+    alert("hola")
+  });
+>>>>>>> 5b4afe1 (sneakers2)

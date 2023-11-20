@@ -306,3 +306,6 @@ grid-area: thumb-1;
 >>>>>>> devyair
   grid-area: box-info;
 }
+.precio {
+  color: orange;
+}
